@@ -1,0 +1,29 @@
+{
+  "name": "fyrirlestrar",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "present": "reveal-md -w --disable-auto-open",
+    "eslint-js": "eslint fyrirlestrar/**/*.js",
+    "eslint-markdown": "eslint --ext md .",
+    "eslint-html": "eslint --ext html .",
+    "eslint": "npm run eslint-js -s && npm run eslint-markdown -s && npm run eslint-html -s",
+    "markdownlint": "markdownlint fyrirlestrar/**/*.md",
+    "test": "npm run eslint -s && npm run markdownlint -s"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "reveal-md": "2.4.1"
+  },
+  "devDependencies": {
+    "eslint": "^5.8.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-html": "^4.0.6",
+    "eslint-plugin-import": "^2.14.0",
+    "eslint-plugin-markdown": "^1.0.0-rc.0",
+    "markdownlint-cli": "^0.13.0"
+  }
+}

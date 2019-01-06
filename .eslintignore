@@ -1,0 +1,9 @@
+node_modules/
+_static/**/*.*
+templates/**/*.*
+
+**/dist/**/*.*
+**/bundle.js
+
+# Ekki tracka package-lock.json í dæmum
+**/package-lock.json

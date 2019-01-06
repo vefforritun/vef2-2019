@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css?family=Fira+Sans:400,700|Open+Sans');
+@font-face {
+  font-family: 'firacode';
+  font-weight: normal;
+  font-style: normal;
+  src: url('https://cdn.rawgit.com/tonsky/FiraCode/436ac320b39184d91ea9b0e246223663a5f6fbf2/distr/otf/FiraCode-Retina.otf');
+}
+
+body {
+  background-color: #fafafa;
+}
+
+.reveal {
+  color: #333;
+}
+
+.reveal section {
+  text-align: left;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.reveal section h1,
+.reveal section h2,
+.reveal section h3,
+.reveal section h4 {
+  margin-bottom: 0.5em;
+  font-family: 'Fira Sans', sans-serif;
+  text-transform: none;
+}
+
+.reveal section ul {
+  margin-left: 0;
+}
+
+.reveal section ul ul {
+  margin-top: 0.5em;
+  margin-left: 1em;
+}
+
+.reveal section li {
+  margin-bottom: 0.5em;
+}
+
+.reveal pre {
+  width: 100%;
+  margin: 0;
+  line-height: 1.3125;
+  font-size: 0.761904762em;
+  height: auto;
+}
+
+.reveal code {
+  font-family: 'firacode', monospace;
+}
+
+.reveal pre code {
+  max-height: 600px;
+  margin-left: -0.5em;
+  margin-right: -0.5em;
+  padding: 0.5em;
+}
+
+.reveal section img,
+.reveal a:hover img {
+  background: none;
+  border: none;
+  box-shadow: none;
+  display: block;
+  margin: 0 auto;
+  max-height: 75%;
+}

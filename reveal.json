@@ -1,0 +1,9 @@
+{
+  "controls": false,
+  "progress": true,
+  "history": true,
+  "center": true,
+  "fragments": true,
+  "transition": "slide",
+  "transitionSpeed": "fast"
+}
