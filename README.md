@@ -32,11 +32,25 @@ Sjá Uglu.
 
 * [Fyrirlestur 1, 10. janúar](fyrirlestrar/01/)
   - Kynning, node.js, ósamstillt forritun
+* [Fyrirlestur 2, 17. janúar](fyrirlestrar/02/)
+  - Einingar, atburðir, express
 
 ## Ítarefni
 
 * Fyrirlestur 1
   - [Jake Archibald: In The Loop](https://www.youtube.com/watch?v=cCOL7MC4Pl0), 35 mín fyrirlestur
+* Fyrirlestur 2
+  - [Anatomy of an HTTP Transaction](https://nodejs.org/en/docs/guides/anatomy-of-an-http-transaction/), HTTP server frá grunni með Node.js
+  - [The Node.js Community Is Quietly Changing the Face of Open Source](http://caines.ca/blog/2013/04/13/the-node-dot-js-community-is-quietly-changing-the-face-of-open-source/), frá 2013
+  - [Rage-quit: Coder unpublished 17 lines of JavaScript and “broke the Internet”](https://arstechnica.com/information-technology/2016/03/rage-quit-coder-unpublished-17-lines-of-javascript-and-broke-the-internet/)
+  - [NPM & left-pad: Have We Forgotten How To Program?](http://www.haneycodes.net/npm-left-pad-have-we-forgotten-how-to-program/)
+  - [Code dependencies are the devil.](https://medium.freecodecamp.org/code-dependencies-are-the-devil-35ed28b556d)
+  - [I’m harvesting credit card numbers and passwords from your site. Here’s how.](https://hackernoon.com/im-harvesting-credit-card-numbers-and-passwords-from-your-site-here-s-how-9a8cb347c5b5)
+  - „event-stream incident“, óprúttinn aðili tók yfir `event-stream` pakkann á npm
+    + ["An NPM package with 2,000,000 weekly downloads had malicious code injected into it. No one knows what the malicious code does yet."](https://twitter.com/garybernhardt/status/1067111872225136640)
+    + ["I don't know what to say."](https://github.com/dominictarr/event-stream/issues/116)
+    + [The npm blog: Details about the event-stream incident](https://blog.npmjs.org/post/180565383195/details-about-the-event-stream-incident)
+  - [The Ant Design Christmas Egg that Went Wrong](https://blog.shunliang.io/frontend/2018/12/25/the-ant-design-xmas-egg-that-went-wrong.html)
 
 ## Verkefni
 
