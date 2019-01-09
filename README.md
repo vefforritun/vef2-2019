@@ -30,6 +30,14 @@ Sjá Uglu.
 
 ## Fyrirlestrar
 
+* [Fyrirlestur 1, 10. janúar](fyrirlestrar/01/)
+  - Kynning, node.js, ósamstillt forritun
+
+## Ítarefni
+
+* Fyrirlestur 1
+  - [Jake Archibald: In The Loop](https://www.youtube.com/watch?v=cCOL7MC4Pl0), 35 mín fyrirlestur
+
 ## Verkefni
 
 Verkefnum og einkunnum fyrir þau er skilað í gegnum Uglu.
