@@ -8,7 +8,7 @@
     "eslint-js": "eslint fyrirlestrar/**/*.js",
     "eslint-markdown": "eslint --ext md .",
     "eslint-html": "eslint --ext html .",
-    "eslint": "npm run eslint-js -s && npm run eslint-markdown -s && npm run eslint-html -s",
+    "eslint": "concurrently -c \"bgBlue.yellow,bgPurple.bold,bgPink.bold\" \"npm run eslint-js -s\" \"npm run eslint-markdown -s\" \"npm run eslint-html -s\"",
     "markdownlint": "markdownlint .fyrirlestrar/**/*.md README.md",
     "textlint": "textlint fyrirlestrar/**/*.md",
     "test": "concurrently -c \"bgBlue.bold,bgMagenta.bold,bgGreen.bold\" \"npm run eslint -s\" \"npm run markdownlint -s\" \"npm run textlint -s\""
