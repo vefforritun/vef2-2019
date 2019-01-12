@@ -1,0 +1,18 @@
+{
+  "rules": {
+    "max-comma": {
+        "max" : 3
+    },
+    "period-in-list-item": false,
+    "apostrophe": true,
+    "terminology": {
+      "defaultTerms": true,
+      "skip": [],
+      "terms": [],
+      "exclude": []
+    }
+  },
+  "filters": {
+    "comments": true
+  }
+}

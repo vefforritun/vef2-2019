@@ -9,8 +9,9 @@
     "eslint-markdown": "eslint --ext md .",
     "eslint-html": "eslint --ext html .",
     "eslint": "npm run eslint-js -s && npm run eslint-markdown -s && npm run eslint-html -s",
-    "markdownlint": "markdownlint fyrirlestrar/**/*.md",
-    "test": "npm run eslint -s && npm run markdownlint -s"
+    "markdownlint": "markdownlint ./**/*.md *.md",
+    "textlint": "textlint fyrirlestrar/**/*.md",
+    "test": "npm run eslint -s && npm run markdownlint -s && npm run textlint -s"
   },
   "keywords": [],
   "author": "",
@@ -24,6 +25,12 @@
     "eslint-plugin-html": "^4.0.6",
     "eslint-plugin-import": "^2.14.0",
     "eslint-plugin-markdown": "^1.0.0-rc.0",
-    "markdownlint-cli": "^0.13.0"
+    "markdownlint-cli": "^0.13.0",
+    "textlint": "^11.2.1",
+    "textlint-filter-rule-comments": "^1.2.2",
+    "textlint-rule-apostrophe": "^1.0.0",
+    "textlint-rule-max-comma": "^1.0.4",
+    "textlint-rule-period-in-list-item": "^0.2.0",
+    "textlint-rule-terminology": "^1.1.30"
   }
 }

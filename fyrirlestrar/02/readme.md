@@ -37,7 +37,7 @@
 * [Code dependencies are the devil.](https://medium.freecodecamp.org/code-dependencies-are-the-devil-35ed28b556d)
 * [I’m harvesting credit card numbers and passwords from your site. Here’s how.](https://hackernoon.com/im-harvesting-credit-card-numbers-and-passwords-from-your-site-here-s-how-9a8cb347c5b5)
 * „event-stream incident“, óprúttinn aðili tók yfir `event-stream` pakkann á npm
-  - ["An NPM package with 2,000,000 weekly downloads had malicious code injected into it. No one knows what the malicious code does yet."](https://twitter.com/garybernhardt/status/1067111872225136640)
-  - ["I don't know what to say."](https://github.com/dominictarr/event-stream/issues/116)
+  - ["An npm package with 2,000,000 weekly downloads had malicious code injected into it. No one knows what the malicious code does yet."](https://twitter.com/garybernhardt/status/1067111872225136640)
+  - ["I don’t know what to say."](https://github.com/dominictarr/event-stream/issues/116)
   - [The npm blog: Details about the event-stream incident](https://blog.npmjs.org/post/180565383195/details-about-the-event-stream-incident)
 * [The Ant Design Christmas Egg that Went Wrong](https://blog.shunliang.io/frontend/2018/12/25/the-ant-design-xmas-egg-that-went-wrong.html)
