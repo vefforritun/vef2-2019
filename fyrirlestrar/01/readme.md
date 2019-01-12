@@ -1,8 +1,8 @@
 # Fyrirlestur 1, 10. janúar 2018
 
-[Fyrirlestur 1.1: Kynning](01.1.kynning.md), [vídeó](https://www.youtube.com/watch?v=)
+[Fyrirlestur 1.1: Kynning](01.1.kynning.md), [vídeó](https://youtu.be/qXMuGBeAAH4)
 
-[Fyrirlestur 1.2: node.js](01.2.nodejs.md), [vídeó](https://www.youtube.com/watch?v=)
+[Fyrirlestur 1.2: node.js](01.2.nodejs.md), [vídeó](https://youtu.be/N9r38H2wR6I)
 
 * [hello-world.js](daemi/node/01.hello-world.js)
 * [interval.js](daemi/node/02.interval.js)
@@ -17,7 +17,7 @@
 * [increment-file-broken.js](daemi/node/11.increment-file-broken.js)
 * [increment-file-fixed.js](daemi/node/12.increment-file-fixed.js)
 
-[Fyrirlestur 1.3: Ósamstillt forritun](01.3.async.md), [vídeó](https://www.youtube.com/watch?v=)
+[Fyrirlestur 1.3: Ósamstillt forritun](01.3.async.md), [vídeó](https://youtu.be/qvCr_3S_fSU)
 
 * [promise.js](daemi/async/01.promise.js)
 * [promisify.js](daemi/async/02.promisify.js)
