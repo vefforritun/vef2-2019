@@ -9,9 +9,9 @@
     "eslint-markdown": "eslint --ext md .",
     "eslint-html": "eslint --ext html .",
     "eslint": "npm run eslint-js -s && npm run eslint-markdown -s && npm run eslint-html -s",
-    "markdownlint": "markdownlint ./**/*.md *.md",
+    "markdownlint": "markdownlint .fyrirlestrar/**/*.md README.md",
     "textlint": "textlint fyrirlestrar/**/*.md",
-    "test": "npm run eslint -s && npm run markdownlint -s && npm run textlint -s"
+    "test": "concurrently -c \"bgBlue.bold,bgMagenta.bold,bgGreen.bold\" \"npm run eslint -s\" \"npm run markdownlint -s\" \"npm run textlint -s\""
   },
   "keywords": [],
   "author": "",
@@ -20,6 +20,7 @@
     "reveal-md": "2.4.1"
   },
   "devDependencies": {
+    "concurrently": "^4.1.0",
     "eslint": "^5.8.0",
     "eslint-config-airbnb-base": "^13.1.0",
     "eslint-plugin-html": "^4.0.6",
