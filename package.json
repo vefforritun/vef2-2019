@@ -20,7 +20,7 @@
   },
   "lint-staged": {
     "*.js": ["eslint --fix", "git add"],
-    "*.md": ["eslint --ext md --fix", "markdownlint --fix", "git add"]
+    "*.md": ["eslint --ext md --fix", "markdownlint", "git add"]
   },
   "keywords": [],
   "author": "",
