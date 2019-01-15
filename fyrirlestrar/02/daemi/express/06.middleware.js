@@ -1,3 +1,10 @@
+/*
+Keyrt með:
+node 06.middleware.js
+
+Keyrum nokkur middleware á mismunandi máta.
+*/
+
 const express = require('express');
 
 const app = express();
@@ -29,10 +36,13 @@ app.get('/', (req, res, next) => {
 
 app.get(
   '/foo',
+  // getum blandað allskonar middleware
   [firstMiddleware, firstMiddleware],
   firstMiddleware,
   (req, res) => {
     res.send('🤔');
+
+    // köllum ekki í next(), keðja brotin
   },
 );
 

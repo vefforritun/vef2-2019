@@ -1,4 +1,12 @@
-// only use as an example
+/*
+Keyrt með:
+node server.js
+
+Keyrir upp server sem hlustar á `127.0.0.1:3000`, þ.e.a.s. á `localhost` á porti
+3000. Svarar fyrir nokkrar slóðir og skilar viðeigandi gögnum, sjá athugasemdir
+að neðan.
+Aðeins dæmi, ekki nota fyrir neitt alvöru.
+*/
 
 const http = require('http');
 const fs = require('fs');
@@ -10,6 +18,11 @@ const readFileAsync = util.promisify(fs.readFile);
 const hostname = '127.0.0.1';
 const port = 3000;
 
+/**
+ * Finnur content-type fyrir skrá til að skila í response.
+ *
+ * @param {string} ext Ending til að finna content-type fyrir
+ */
 function contentType(ext) {
   switch (ext) {
     case '.css':
@@ -21,6 +34,13 @@ function contentType(ext) {
   }
 }
 
+/**
+ * "Template" fyrir efnið okkar, setur upp sameiginlegt HTML með vísun í css,
+ * valmynd og efni innan <main>
+ *
+ * @param {string} title Titill á síðu
+ * @param {string} body Meginmál síðu
+ */
 function template(title, body) {
   return `<!doctype html>
 <html lang="is">
@@ -46,30 +66,30 @@ function template(title, body) {
 }
 
 const server = http.createServer();
+
 server.on('request', async (request, response) => {
   const { url } = request;
 
-  // höfum ekkert favicon
+  // höfum ekkert favicon, vafri biður ítrekað um og nennum ekki villu
   if (url === '/favicon.ico') {
     return response.end();
   }
 
-  const extension = path.extname(url).toLowerCase();
-
   try {
+    // reynym að lesa skrá, finna endingu og skrifa header
     const file = path.basename(url);
     const content = await readFileAsync(file);
+    const extension = path.extname(file).toLowerCase();
     response.writeHead(200, { 'Content-Type': contentType(extension) });
 
-    // send response and return –– do not run anything below
+    // sendum efni og hættum, keyrum ekkert fyrir neðan út af "return"
     return response.end(content);
   } catch (e) {
-    console.log(e);
-    // unable to read file ¯\_(ツ)_/¯
+    console.error(e);
+    // Gátum ekki lesið skrá, kannski passar request við eitthvað að neðan
   }
 
-  response.setHeader('Content-Type', 'text/html');
-  response.statusCode = 200;
+  response.writeHead(200, { 'Content-Type': 'text/html' });
 
   if (url === '/') {
     response.write(template('Forsíða', '<p>Halló heimur</p>'));
@@ -78,8 +98,8 @@ server.on('request', async (request, response) => {
       template('Klukka', `<p>Klukkan er ${new Date().toUTCString()}</p>`),
     );
   } else {
-    response.write(template('404 fannst ekki', `<p>${url} fannst ekki</p>`));
     response.statusCode = 404;
+    response.write(template('404 fannst ekki', `<p>${url} fannst ekki</p>`));
   }
 
   return response.end();

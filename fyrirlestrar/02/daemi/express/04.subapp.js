@@ -1,3 +1,10 @@
+/*
+Keyrt með:
+node 04.subapp.js
+
+Býr til tvö express öpp og lætur fyrra nota það seinna sem "subapp"
+*/
+
 const express = require('express');
 
 const app = express();

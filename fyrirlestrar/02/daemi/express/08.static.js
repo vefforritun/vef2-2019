@@ -1,13 +1,19 @@
+/*
+Keyrt með:
+node 08.static.js
+
+Nota express.static() middleware til að gera skrár úr /public aðgengileg.
+*/
+
+const path = require('path');
 const express = require('express');
 
 const app = express();
 
+app.use(express.static(path.join(__dirname, 'public')));
+
 const hostname = '127.0.0.1';
 const port = 3000;
-
-app.get('/', (req, res) => {
-  res.send('Hello World!');
-});
 
 app.listen(port, hostname, () => {
   console.log(`Server running at http://${hostname}:${port}/`);

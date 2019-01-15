@@ -1,8 +1,16 @@
+/*
+Keyrt með:
+node 02.request.js
+
+Keyrir upp einfaldan express þjón sem skrifar út ýmislegt úr request hlut, sjá
+http://expressjs.com/en/4x/api.html#req
+*/
+
 const express = require('express');
 
 const app = express();
 
-app.get('/', (req, res) => {
+app.use((req, res) => {
   res.send(`
     method: ${req.method}<br>
     url: ${req.url}<br>

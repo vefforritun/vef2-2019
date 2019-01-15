@@ -1,3 +1,12 @@
+/*
+Keyrt með:
+node 03.response.js
+
+Keyrir upp einfaldan express þjón sem skrifar út ýmislegt úr response hlut,
+notar einnig föll til að skrifa headers og í response
+http://expressjs.com/en/4x/api.html#res
+*/
+
 const express = require('express');
 
 const app = express();
