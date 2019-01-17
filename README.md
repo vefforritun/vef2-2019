@@ -57,7 +57,7 @@ Sjá Uglu.
 Verkefnum og einkunnum fyrir þau er skilað í gegnum Uglu.
 
 * [Verkefni 1](https://github.com/vefforritun/vef2-2019-v1), sett fyrir 10. janúar, skilist 25. janúar
-  - [Kynning á verkefni](https://youtu.be/ADmCKJJOzuk)
+  - [Kynning á verkefni](https://youtu.be/ADmCKJJOzuk), [Nánar í fyrirlestri 2](https://youtu.be/MQBTq1yuxBA)
 * [Verkefni 2](https://github.com/vefforritun/vef2-2019-v2), sett fyrir 24. janúar, skilist 8. febrúar
 * [Verkefni 3](https://github.com/vefforritun/vef2-2019-v3), sett fyrir 7. febrúar, skilist 22. febrúar
 * [Verkefni 4](https://github.com/vefforritun/vef2-2019-v4), sett fyrir 21. febrúar, skilist 8. mars

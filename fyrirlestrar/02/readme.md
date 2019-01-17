@@ -1,12 +1,12 @@
 # Fyrirlestur 2, 17. janúar 2018
 
-[Fyrirlestur 2.1: Einingar](02.1.modules.md), [vídeó](https://www.youtube.com/watch?v=)
+[Fyrirlestur 2.1: Einingar](02.1.modules.md), [vídeó](https://www.youtube.com/watch?v=eJ2Hwgwuhcw)
 
 * [jsdoc.js](daemi/modules/jsdoc.js)
 * [modules.js](daemi/modules/modules.js)
 * [npm](daemi/modules/npm)
 
-[Fyrirlestur 2.2: Atburðir, straumar og net](02.2.events.streams.net.md), [vídeó](https://www.youtube.com/watch?v=)
+[Fyrirlestur 2.2: Atburðir, straumar og net](02.2.events.streams.net.md), [vídeó](https://www.youtube.com/watch?v=r2VMPRJfVYA)
 
 * [eventemitter.js](daemi/events-streams-net/eventemitter.js)
 * [fs-stream.js](daemi/events-streams-net/fs-stream.js)
@@ -15,7 +15,7 @@
 * [tcp.js](daemi/events-streams-net/tcp.js)
 * [simple-server](daemi/events-streams-net/simple-server)
 
-[Fyrirlestur 2.3: Express](02.3.express.md), [vídeó](https://www.youtube.com/watch?v=)
+[Fyrirlestur 2.3: Express](02.3.express.md), [vídeó](https://www.youtube.com/watch?v=LbdL17H2H-s)
 
 * [hello-world.js](daemi/express/hello-world.js)
 * [subapp.js](daemi/express/subapp.js)
