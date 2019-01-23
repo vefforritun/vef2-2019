@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "present": "reveal-md -w --disable-auto-open",
+    "present": "reveal-md --disable-auto-open",
     "eslint-js": "eslint fyrirlestrar/**/*.js",
     "eslint-markdown": "eslint --ext md .",
     "eslint-html": "eslint --ext html .",
