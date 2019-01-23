@@ -1,3 +1,3 @@
-const vf2 = require('vefforritun-2-2018');
+const vf2 = require('vefforritun22019');
 
 console.log(vf2);
