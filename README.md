@@ -14,19 +14,19 @@ Sjá Uglu.
 |------|-------------|---------------------------------------|----------------|----------------|
 |   1  | 10. janúar  | Kynning, node.js, ósamstillt forritun | Verkefni #1    |                |
 |   2  | 17. janúar  | Einingar, atburðir, express           |                |                |
-|   4  | 24. janúar  | HTTP, form, postgres                  | Verkefni #2    | Verkefni #1    |
-|   5  | 31. janúar  | Öryggi                                |                |                |
-|   6  | 7. febrúar  | Heroku, auðkenning                    | Verkefni #3    | Verkefni #2    |
-|   7  | 18. febrúar | Vefþjónustur                          | Hópverkefni #1 |                |
-|   8  | 21. febrúar | Vefþjónustur                          | Verkefni #4    | Verkefni #3    |
-|   9  | 28. febrúar | redis, cache & scraping               |                |                |
-|  10  | 7. mars     | Prófanir, React                       | Verkefni #5    | Verkefni #4    |
-|  11  | 14. mars    | React                                 | Hópverkefni #2 | Hópverkefni #1 |
-|  12  | 21. mars    | React, next.js                        | Verkefni #6    | Verkefni #5    |
-|  13  | 28. mars    | Bundling, CMS, DevOps                 |                |                |
-|  14  | 4. apríl    | Vue, Typescript                       |                | Verkefni #6    |
-|  15  | 11. apríl   | Upprifjun og um lokapróf              |                | Hópverkefni #2 |
-|  16  | 18. apríl   | Páskafrí                              |                |                |
+|   3  | 24. janúar  | HTTP, form, postgres                  | Verkefni #2    | Verkefni #1    |
+|   4  | 31. janúar  | Öryggi                                |                |                |
+|   5  | 7. febrúar  | Heroku, auðkenning                    | Verkefni #3    | Verkefni #2    |
+|   6  | 18. febrúar | Vefþjónustur                          | Hópverkefni #1 |                |
+|   7  | 21. febrúar | Vefþjónustur                          | Verkefni #4    | Verkefni #3    |
+|   8  | 28. febrúar | redis, cache & scraping               |                |                |
+|   9  | 7. mars     | Prófanir, React                       | Verkefni #5    | Verkefni #4    |
+|  10  | 14. mars    | React                                 | Hópverkefni #2 | Hópverkefni #1 |
+|  11  | 21. mars    | React, next.js                        | Verkefni #6    | Verkefni #5    |
+|  12  | 28. mars    | Bundling, CMS, DevOps                 |                |                |
+|  13  | 4. apríl    | Vue, Typescript                       |                | Verkefni #6    |
+|  14  | 11. apríl   | Upprifjun og um lokapróf              |                | Hópverkefni #2 |
+|  15  | 18. apríl   | Páskafrí                              |                |                |
 
 ## Fyrirlestrar
 
