@@ -17,6 +17,9 @@ module.exports = {
     // leyfa i++ í for
     'no-plusplus': ['error', { 'allowForLoopAfterthoughts': true }],
 
-    'function-paren-newline': ["error", "consistent"]
+    'function-paren-newline': ["error", "consistent"],
+
+    // viljum hafa operators í t.d. löngum if segðum aftast á línu
+    'operator-linebreak': ["error", "after"],
   }
 };
