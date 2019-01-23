@@ -69,3 +69,12 @@ body {
   margin: 0 auto;
   max-height: 75%;
 }
+
+.reveal blockquote {
+  width: 100%;
+  border: 0;
+  padding: 1em;
+  line-height: 1.2em;
+  box-shadow: none;
+  background: transparent;
+}

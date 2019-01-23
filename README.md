@@ -15,8 +15,8 @@ Sjá Uglu.
 |   1  | 10. janúar  | Kynning, node.js, ósamstillt forritun | Verkefni #1    |                |
 |   2  | 17. janúar  | Einingar, atburðir, express           |                |                |
 |   4  | 24. janúar  | HTTP, form, postgres                  | Verkefni #2    | Verkefni #1    |
-|   5  | 31. janúar  | Öryggi, Heroku                        |                |                |
-|   6  | 7. febrúar  | Auðkenning                            | Verkefni #3    | Verkefni #2    |
+|   5  | 31. janúar  | Öryggi                                |                |                |
+|   6  | 7. febrúar  | Heroku, auðkenning                    | Verkefni #3    | Verkefni #2    |
 |   7  | 18. febrúar | Vefþjónustur                          | Hópverkefni #1 |                |
 |   8  | 21. febrúar | Vefþjónustur                          | Verkefni #4    | Verkefni #3    |
 |   9  | 28. febrúar | redis, cache & scraping               |                |                |
@@ -34,6 +34,8 @@ Sjá Uglu.
   - Kynning, node.js, ósamstillt forritun
 * [Fyrirlestur 2, 17. janúar](fyrirlestrar/02/)
   - Einingar, atburðir, express
+* [Fyrirlestur 3, 24. janúar](fyrirlestrar/03/)
+  - HTTP, form, Postgres
 
 ## Ítarefni
 
@@ -51,6 +53,11 @@ Sjá Uglu.
     + ["I don't know what to say."](https://github.com/dominictarr/event-stream/issues/116)
     + [The npm blog: Details about the event-stream incident](https://blog.npmjs.org/post/180565383195/details-about-the-event-stream-incident)
   - [The Ant Design Christmas Egg that Went Wrong](https://blog.shunliang.io/frontend/2018/12/25/the-ant-design-xmas-egg-that-went-wrong.html)
+* Fyrirlestur 3
+  - [Að tengjast Postgres](itarefni/postgres.md)
+  - [cURL tutorial](https://curl.haxx.se/docs/httpscripting.html)
+  - [PostgreSQL on the command-line](http://phili.pe/posts/postgresql-on-the-command-line/)
+  - [PostgreSQL Exercises](https://pgexercises.com/)
 
 ## Verkefni
 
