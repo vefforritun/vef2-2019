@@ -1,6 +1,6 @@
 # Fyrirlestur 3, 24. janúar 2018
 
-[Fyrirlestur 3.1: HTTP](03.1.http.md), [vídeó](https://www.youtube.com/watch?v=)
+[Fyrirlestur 3.1: HTTP](03.1.http.md), [vídeó](https://youtu.be/RMfosbyVPy0)
 
 * [http-methods.js](daemi/http/01.http-methods.js)
 * [content-type.js](daemi/http/02.content-type.js)
@@ -8,7 +8,7 @@
 * [download.js](daemi/http/04.download.js)
 * [url.js](daemi/http/05.url.js)
 
-[Fyrirlestur 3.2: Form](03.1.form.md), [vídeó](https://www.youtube.com/watch?v=)
+[Fyrirlestur 3.2: Form](03.1.form.md), [vídeó](https://youtu.be/ruZqd6zifqk)
 
 * [get.js](daemi/form/01.get.js)
 * [post-urlencoded.js](daemi/form/02.post-urlencoded.js)
@@ -22,7 +22,7 @@
 * [data-sanitize.js](daemi/form/10.data-sanitize.js)
 * [post-redirect-get.js](daemi/form/11.post-redirect-get.js)
 
-[Fyrirlestur 3.3: Postgres](03.3.postgres.md), [vídeó](https://www.youtube.com/watch?v=)
+[Fyrirlestur 3.3: Postgres](03.3.postgres.md), [vídeó](https://youtu.be/TeAJcxqeWR8)
 
 * [select-client.js](daemi/postgres/01.select-client.js)
 * [select-pool.js](daemi/postgres/02.select-pool.js)

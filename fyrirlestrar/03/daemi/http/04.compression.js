@@ -6,7 +6,7 @@ Keyrir upp express vefþjón sem þjappar svar áður en það er sent vafra, sv
 lengi sem vafri skilur þjöppun.
 
 Getum prófað með:
-curl "http://127.0.0.1:3000/" -v  -H "Accept-Encoding: gzip"
+curl "http://127.0.0.1:3000/" -v -H "Accept-Encoding: gzip"
 
 þar sem -H bætir við haus sem segir að við skiljum gzip þjöppun.
 */

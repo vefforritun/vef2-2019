@@ -8,7 +8,6 @@ Búinn til URLSearchParams hlutur sem tekur inn querystreng, vinnur með hann og
 prentar út sem streng.
 */
 
-
 const s = 'http://user:pass@www.example.org/a/b?foo=bar&bar=baz#hash';
 const url = new URL(s);
 console.log(url);
