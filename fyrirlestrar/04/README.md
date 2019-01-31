@@ -1,6 +1,6 @@
 # Fyrirlestur 4, 1. febrúar 2018
 
-[Fyrirlestur 4.1 – Öryggi](04.1.security.md) [vídeó](https://www.youtube.com/watch?v=)
+[Fyrirlestur 4.1 – Öryggi](04.1.security.md) [vídeó](https://www.youtube.com/watch?v=jAHu-m1Gcr4)
 
 * [logging.js](daemi/01.logging.js)
 * [xss-reflected.js](daemi/02.xss-reflected.js)
@@ -8,12 +8,14 @@
 * [xss-log.js](daemi/04.xss-log.js)
 * [powered-by.js](daemi/05.powered-by.js)
 
-[Fyrirlestur 4.2 – Öryggi](04.2.security.md) [vídeó](https://www.youtube.com/watch?v=)
+[Fyrirlestur 4.2 – Öryggi](04.2.security.md) [vídeó](https://youtu.be/A8U73qisyQo)
 
 * [sql-injection.js](daemi/06.sql-injection.js)
 * [command-injection.js](daemi/07.command-injection.js)
 * [csp.js](daemi/08.csp.js)
 * [csrf.js](daemi/09.csrf.js)
+
+[Fyrirlestur 4 – Dæmi](https://youtu.be/XHvDatOMwE4)
 
 ## Ítarefni
 
