@@ -37,7 +37,7 @@ postgres=# \du
 Þá getum við útbúið gagnagrunn (t.d. `v2`) og notanda (t.d. `notandi`) fyrir grunninn sem við vitum að hefur aðgang:
 
  ```bash
-postgres=# CREATE USER notandi;
+postgres=# CREATE USER notandi WITH ENCRYPTED PASSWORD 'mypass';
 CREATE ROLE
 
 postgres=# CREATE DATABASE v2;
@@ -84,7 +84,7 @@ Ef við búum nú til skrá `index.js`:
 ```javascript
 const { Client } = require('pg');
 
-const connectionString = 'postgres://notandi:@localhost/v2';
+const connectionString = 'postgres://notandi:mypass@localhost/v2';
 
 const client = new Client({ connectionString });
 client.connect();
