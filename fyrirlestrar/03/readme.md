@@ -35,7 +35,7 @@
 
 ## Ítarefni
 
-* [Að tengjast Postgres](itarefni/postgres.md)
+* [Að tengjast Postgres](../../itarefni/postgres.md)
 * [cURL tutorial](https://curl.haxx.se/docs/httpscripting.html)
 * [PostgreSQL on the command-line](http://phili.pe/posts/postgresql-on-the-command-line/)
 * [PostgreSQL Exercises](https://pgexercises.com/)
