@@ -15,7 +15,7 @@
 * [csp.js](daemi/08.csp.js)
 * [csrf.js](daemi/09.csrf.js)
 
-[Fyrirlestur 4 – Dæmi](https://youtu.be/XHvDatOMwE4)
+[Fyrirlestur 4 – Dæmi](../../daemi/f4-daemi/) [vídeó](https://youtu.be/XHvDatOMwE4)
 
 ## Ítarefni
 
