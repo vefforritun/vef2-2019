@@ -7,7 +7,7 @@ Log upplýsingar geymdar í minni til einföldunar á dæmi.
 Ef notandi sendir XSS í `user-agent` header mun það birtast á /log
 
 Getum breytt user-agent með curl:
-url -A "<script>alert(1)</script>" http://localhost:3000
+curl -A "<script>alert(1)</script>" http://localhost:3000
 */
 
 // Geymum log í minni meðan app keyrir
