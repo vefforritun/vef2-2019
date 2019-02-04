@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "present": "reveal-md --disable-auto-open",
-    "eslint-js": "eslint fyrirlestrar/**/*.js",
+    "eslint-js": "eslint daemi fyrirlestrar",
     "eslint-markdown": "eslint --ext md .",
     "eslint-html": "eslint --ext html .",
     "eslint": "concurrently -c \"bgBlue.yellow,bgPurple.bold,bgPink.bold\" \"npm run eslint-js -s\" \"npm run eslint-markdown -s\" \"npm run eslint-html -s\"",

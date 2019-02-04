@@ -78,10 +78,8 @@ Sjá Uglu.
   - [How I Hacked 40 sites in 7 minutes](https://hackernoon.com/how-i-hacked-40-websites-in-7-minutes-5b4c28bc8824)
   - [The MySpace Worm that Changed the internet Forever](https://motherboard.vice.com/en_us/article/wnjwb4/the-myspace-worm-that-changed-the-internet-forever)
   - [Meet the seven people who hold the keys to worldwide internet security](https://www.theguardian.com/technology/2014/feb/28/seven-people-keys-worldwide-internet-security-web)
-  - [XSS Prevention Cheat Sheet][1]
+  - [XSS Prevention Cheat Sheet](https://www.owasp.org/index.php/SQL_Injection_Prevention_Cheat_Sheet)
   - [alert(1) to win – XSS leikur!](https://alf.nu/alert1)
-
-[1]: https://www.owasp.org/index.php/SQL_Injection_Prevention_Cheat_Sheet
 
 ## Verkefni
 
@@ -91,6 +89,7 @@ Verkefnum og einkunnum fyrir þau er skilað í gegnum Uglu.
   - [Kynning á verkefni](https://youtu.be/ADmCKJJOzuk), [Nánar í fyrirlestri 2](https://youtu.be/MQBTq1yuxBA)
   - [Sýnilausn](https://github.com/vefforritun/vef2-2019-v1-synilausn)
 * [Verkefni 2](https://github.com/vefforritun/vef2-2019-v2), sett fyrir 26. janúar, skilist 8. febrúar
+  - [Kynning í fyrirlestri](https://www.youtube.com/watch?v=XHvDatOMwE4)
 * [Verkefni 3](https://github.com/vefforritun/vef2-2019-v3), sett fyrir 7. febrúar, skilist 22. febrúar
 * [Verkefni 4](https://github.com/vefforritun/vef2-2019-v4), sett fyrir 21. febrúar, skilist 8. mars
 * [Verkefni 5](https://github.com/vefforritun/vef2-2019-v5), sett fyrir 7. mars, skilist 22. mars
