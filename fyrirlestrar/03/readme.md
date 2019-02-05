@@ -8,7 +8,7 @@
 * [download.js](daemi/http/04.download.js)
 * [url.js](daemi/http/05.url.js)
 
-[Fyrirlestur 3.2: Form](03.1.form.md), [vídeó](https://youtu.be/ruZqd6zifqk)
+[Fyrirlestur 3.2: Form](03.2.form.md), [vídeó](https://youtu.be/ruZqd6zifqk)
 
 * [get.js](daemi/form/01.get.js)
 * [post-urlencoded.js](daemi/form/02.post-urlencoded.js)
