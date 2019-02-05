@@ -40,6 +40,6 @@ async function register(req, res) {
 }
 
 router.get('/', catchErrors(form));
-router.post('/register', validation, sanitazion, (register));
+router.post('/register', validation, sanitazion, catchErrors(register));
 
 module.exports = router;
