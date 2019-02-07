@@ -8,3 +8,5 @@
   - HTTP, form, Postgres
 * [Fyrirlestur 4, 31. janúar](04/)
   - Öryggi
+* [Fyrirlestur 5, 7. febrúar](05/)
+  - Auðkenning, Heroku

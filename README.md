@@ -16,8 +16,8 @@ Sjá Uglu.
 |   2  | 17. janúar  | Einingar, atburðir, express           |                |                |
 |   3  | 24. janúar  | HTTP, form, postgres                  | Verkefni #2    | Verkefni #1    |
 |   4  | 31. janúar  | Öryggi                                |                |                |
-|   5  | 7. febrúar  | Heroku, auðkenning                    | Verkefni #3    | Verkefni #2    |
 |   6  | 18. febrúar | Vefþjónustur                          | Hópverkefni #1 |                |
+|   5  | 7. febrúar  | Auðkenning, Heroku                    | Verkefni #3    | Verkefni #2    |
 |   7  | 21. febrúar | Vefþjónustur                          | Verkefni #4    | Verkefni #3    |
 |   8  | 28. febrúar | redis, cache & scraping               |                |                |
 |   9  | 7. mars     | Prófanir, React                       | Verkefni #5    | Verkefni #4    |
@@ -38,6 +38,8 @@ Sjá Uglu.
   - HTTP, form, Postgres
 * [Fyrirlestur 4, 31. janúar](fyrirlestrar/04/)
   - Öryggi
+* [Fyrirlestur 5, 7. febrúar](fyrirlestrar/05/)
+  - Auðkenning, Heroku
 
 ## Ítarefni
 
@@ -81,6 +83,22 @@ Sjá Uglu.
   - [XSS Prevention Cheat Sheet](https://www.owasp.org/index.php/SQL_Injection_Prevention_Cheat_Sheet)
   - [alert(1) to win – XSS leikur!](https://alf.nu/alert1)
   - [OWASP: Logging cheat sheet](https://www.owasp.org/index.php/Logging_Cheat_Sheet)
+* Fyrirlestur 5
+  - [Saga kökunnar frá höfundi hennar](http://www.montulli-blog.com/2013/05/the-reasoning-behind-web-cookies.html?m=1)
+  - [The drastic effects of omitting NODE_ENV in your Express.js applications](https://www.dynatrace.com/news/blog/the-drastic-effects-of-omitting-node_env-in-your-express-js-applications/)
+  - The Twelve-Factor App
+    + [I. Codebase](https://12factor.net/codebase)
+    + [II. Dependencies](https://12factor.net/dependencies)
+    + [III. Config](https://12factor.net/config)
+    + [IV. Backing services](https://12factor.net/backing-services)
+    + [V. Build, release, run](https://12factor.net/build-release-run)
+    + [VI. Processes](https://12factor.net/processes)
+    + [VII. Port binding](https://12factor.net/port-binding)
+    + [VIII. Concurrency](https://12factor.net/concurrency)
+    + [IX. Disposability](https://12factor.net/disposability)
+    + [X. Dev/prod parity](https://12factor.net/dev-prod-parity)
+    + [XI. Logs](https://12factor.net/logs)
+    + [XII. Admin processes](https://12factor.net/admin-processes)
 
 ## Verkefni
 
