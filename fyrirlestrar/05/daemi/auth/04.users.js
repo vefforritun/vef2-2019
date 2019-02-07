@@ -6,6 +6,8 @@ const records = [
   {
     id: 1,
     username: 'admin',
+
+    // 123
     password: '$2a$11$pgj3.zySyFOvIQEpD7W6Aund1Tw.BFarXxgLJxLbrzIv/4Nteisii',
     admin: true,
   },
@@ -17,8 +19,8 @@ const records = [
   },
 ];
 
-async function comparePasswords(hash, user) {
-  const ok = await bcrypt.compare(hash, user.password);
+async function comparePasswords(password, user) {
+  const ok = await bcrypt.compare(password, user.password);
 
   if (ok) {
     return user;

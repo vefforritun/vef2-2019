@@ -1,17 +1,15 @@
 # Fyrirlestur 5, 8. febrúar 2018
 
-[Fyrirlestur 5.1: Auðkenning](05.1.auth.md), [vídeó](https://www.youtube.com/watch?v=5PhjwA5xjG4)
+[Fyrirlestur 5.1: Auðkenning](05.1.auth.md), [vídeó part 1](https://youtu.be/Qku1QOVQe8k), [vídeó part 2](https://youtu.be/21bdKmownWg)
 
-* [basic-auth.js](daemi/auth/basic-auth.js)
-* [cookie.js](daemi/auth/cookie.js)
-* [passport.js](daemi/auth/passport.js)
-* [session.js](daemi/auth/session.js)
+* [basic-auth.js](daemi/auth/01.basic-auth.js)
+* [cookie.js](daemi/auth/02.cookies.js)
+* [session.js](daemi/auth/03.session.js)
+* [passport.js](daemi/auth/04.passport.js)
 
-[Fyrirlestur 5.2: Heroku & Twelve-Factor App](05.2.heroku.md), [vídeó](https://www.youtube.com/watch?v=PP8VITYhmbk)
+[Fyrirlestur 5.2: Heroku & Twelve-Factor App](05.2.heroku.md), [vídeó](https://youtu.be/PrT0ftuHClw)
 
 * [env.js](daemi/heroku/env.js)
-
-[Fyrirlestur 5.3: Dæmi](https://github.com/vefforritun/heroku-test), [vídeó](https://youtu.be/gr-9d9XJKTk)
 
 ## Ítarefni
 

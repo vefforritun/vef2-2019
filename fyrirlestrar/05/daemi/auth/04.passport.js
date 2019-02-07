@@ -53,7 +53,7 @@ async function strat(username, password, done) {
     return done(null, result);
   } catch (err) {
     console.error(err);
-    return done(null, err);
+    return done(err);
   }
 }
 
@@ -116,6 +116,10 @@ app.get('/', (req, res) => {
 });
 
 app.get('/login', (req, res) => {
+  if (req.isAuthenticated()) {
+    return res.redirect('/');
+  }
+
   let message = '';
 
   // Athugum hvort einhver skilaboð séu til í session, ef svo er birtum þau
@@ -126,7 +130,7 @@ app.get('/login', (req, res) => {
   }
 
   // Ef við breytum name á öðrum hvorum reitnum að neðan mun ekkert virka
-  res.send(`
+  return res.send(`
     <form method="post" action="/login">
       <label>Notendanafn: <input type="text" name="username"></label>
       <label>Lykilorð: <input type="password" name="password"></label>
