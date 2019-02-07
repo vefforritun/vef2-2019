@@ -16,10 +16,10 @@ Sjá Uglu.
 |   2  | 17. janúar  | Einingar, atburðir, express           |                |                |
 |   3  | 24. janúar  | HTTP, form, postgres                  | Verkefni #2    | Verkefni #1    |
 |   4  | 31. janúar  | Öryggi                                |                |                |
-|   6  | 18. febrúar | Vefþjónustur                          | Hópverkefni #1 |                |
 |   5  | 7. febrúar  | Auðkenning, Heroku                    | Verkefni #3    | Verkefni #2    |
+|   6  | 18. febrúar | **Fyrirlestur fellur niður**          | Hópverkefni #1 |                |
 |   7  | 21. febrúar | Vefþjónustur                          | Verkefni #4    | Verkefni #3    |
-|   8  | 28. febrúar | redis, cache & scraping               |                |                |
+|   8  | 28. febrúar | Vefþjónustur, redis & cache           |                |                |
 |   9  | 7. mars     | Prófanir, React                       | Verkefni #5    | Verkefni #4    |
 |  10  | 14. mars    | React                                 | Hópverkefni #2 | Hópverkefni #1 |
 |  11  | 21. mars    | React, next.js                        | Verkefni #6    | Verkefni #5    |
