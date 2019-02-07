@@ -38,3 +38,4 @@
 * [Meet the seven people who hold the keys to worldwide internet security](https://www.theguardian.com/technology/2014/feb/28/seven-people-keys-worldwide-internet-security-web)
 * [XSS Prevention Cheat Sheet](https://www.owasp.org/index.php/SQL_Injection_Prevention_Cheat_Sheet)
 * [alert(1) to win – XSS leikur!](https://alf.nu/alert1)
+* [OWASP: Logging cheat sheet](https://www.owasp.org/index.php/Logging_Cheat_Sheet)
