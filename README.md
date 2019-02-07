@@ -109,10 +109,10 @@ Verkefnum og einkunnum fyrir þau er skilað í gegnum Uglu.
   - [Sýnilausn](https://github.com/vefforritun/vef2-2019-v1-synilausn)
 * [Verkefni 2](https://github.com/vefforritun/vef2-2019-v2), sett fyrir 26. janúar, skilist 8. febrúar
   - [Kynning í fyrirlestri](https://www.youtube.com/watch?v=XHvDatOMwE4)
-* [Verkefni 3](https://github.com/vefforritun/vef2-2019-v3), sett fyrir 7. febrúar, skilist 22. febrúar
-* [Verkefni 4](https://github.com/vefforritun/vef2-2019-v4), sett fyrir 21. febrúar, skilist 8. mars
-* [Verkefni 5](https://github.com/vefforritun/vef2-2019-v5), sett fyrir 7. mars, skilist 22. mars
-* [Verkefni 6](https://github.com/vefforritun/vef2-2019-v6), sett fyrir 21. mars, skilist 5. apríl
+* [Verkefni 3](https://github.com/vefforritun/vef2-2019-v3), sett fyrir 9. febrúar, skilist 22. febrúar
+* [Verkefni 4](https://github.com/vefforritun/vef2-2019-v4), sett fyrir 23. febrúar, skilist 8. mars
+* [Verkefni 5](https://github.com/vefforritun/vef2-2019-v5), sett fyrir 9. mars, skilist 22. mars
+* [Verkefni 6](https://github.com/vefforritun/vef2-2019-v6), sett fyrir 23. mars, skilist 5. apríl
 
 ## Hópverkefni
 
