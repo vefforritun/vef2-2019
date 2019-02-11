@@ -17,12 +17,12 @@ Sjá Uglu.
 |   3  | 24. janúar  | HTTP, form, postgres                  | Verkefni #2    | Verkefni #1    |
 |   4  | 31. janúar  | Öryggi                                |                |                |
 |   5  | 7. febrúar  | Auðkenning, Heroku                    | Verkefni #3    | Verkefni #2    |
-|   6  | 18. febrúar | **Fyrirlestur fellur niður**          | Hópverkefni #1 |                |
-|   7  | 21. febrúar | Vefþjónustur                          | Verkefni #4    | Verkefni #3    |
+|   6  | 18. febrúar | **Fyrirlestur fellur niður**          |                |                |
+|   7  | 21. febrúar | Vefþjónustur                          | Hópverkefni #1, Verkefni #4    | Verkefni #3    |
 |   8  | 28. febrúar | Vefþjónustur, redis & cache           |                |                |
 |   9  | 7. mars     | Prófanir, React                       | Verkefni #5    | Verkefni #4    |
-|  10  | 14. mars    | React                                 | Hópverkefni #2 | Hópverkefni #1 |
-|  11  | 21. mars    | React, next.js                        | Verkefni #6    | Verkefni #5    |
+|  10  | 14. mars    | React                                 | Hópverkefni #2 |  |
+|  11  | 21. mars    | React, next.js                        | Verkefni #6    | Hópverkefni #1, Verkefni #5    |
 |  12  | 28. mars    | Bundling, CMS, DevOps                 |                |                |
 |  13  | 4. apríl    | Vue, Typescript                       |                | Verkefni #6    |
 |  14  | 11. apríl   | Upprifjun og um lokapróf              |                | Hópverkefni #2 |
@@ -109,14 +109,15 @@ Verkefnum og einkunnum fyrir þau er skilað í gegnum Uglu.
   - [Sýnilausn](https://github.com/vefforritun/vef2-2019-v1-synilausn)
 * [Verkefni 2](https://github.com/vefforritun/vef2-2019-v2), sett fyrir 26. janúar, skilist 8. febrúar
   - [Kynning í fyrirlestri](https://www.youtube.com/watch?v=XHvDatOMwE4)
-* [Verkefni 3](https://github.com/vefforritun/vef2-2019-v3), sett fyrir 9. febrúar, skilist 22. febrúar
+  - [Sýnilausn](https://github.com/vefforritun/vef2-2019-v2-synilausn)
+* [Verkefni 3](https://github.com/vefforritun/vef2-2019-v3), sett fyrir 10. febrúar, skilist 22. febrúar
 * [Verkefni 4](https://github.com/vefforritun/vef2-2019-v4), sett fyrir 23. febrúar, skilist 8. mars
 * [Verkefni 5](https://github.com/vefforritun/vef2-2019-v5), sett fyrir 9. mars, skilist 22. mars
 * [Verkefni 6](https://github.com/vefforritun/vef2-2019-v6), sett fyrir 23. mars, skilist 5. apríl
 
 ## Hópverkefni
 
-* [Hópverkefni 1](https://github.com/vefforritun/vef2-2019-h1), sett fyrir 18. febrúar, skilist 15. mars
+* [Hópverkefni 1](https://github.com/vefforritun/vef2-2019-h1), sett fyrir 25. febrúar, skilist 22. mars
 * [Hópverkefni 2](https://github.com/vefforritun/vef2-2019-h2), sett fyrir 14. mars, skilist 12. apríl
 
 ## Einkunn
