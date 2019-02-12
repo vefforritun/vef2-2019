@@ -61,7 +61,7 @@ async function insertSafe(data) {
   await client.connect();
 
   // Lagað, notum parameterized input
-  await client.query('INSERT INTO students(name) VALUES($0)', [data]);
+  await client.query('INSERT INTO students(name) VALUES($1)', [data]);
 
   await client.end();
 }
@@ -97,7 +97,7 @@ async function selectByIdSafe(id) {
 
   // Lagað, notum parameterized input
   const res = await client.query(
-    'SELECT * FROM students WHERE graduated = false AND id = $0',
+    'SELECT * FROM students WHERE graduated = false AND id = $1',
     [id],
   );
 
