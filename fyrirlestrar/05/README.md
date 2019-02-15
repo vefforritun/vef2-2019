@@ -11,6 +11,8 @@
 
 * [env.js](daemi/heroku/env.js)
 
+[Fyrirlestur 5: Dæmi](../../daemi/f5-daemi/), [vídeó](https://youtu.be/PrT0ftuHClw?t=1794)
+
 ## Ítarefni
 
 * [Saga kökunnar frá höfundi hennar](http://www.montulli-blog.com/2013/05/the-reasoning-behind-web-cookies.html?m=1)
