@@ -1,3 +1,10 @@
+/*
+Keyrt með:
+node env.js
+
+Les upp úr `.env` gildi fyrir HOST og PORT, annars eru sjálfgefin gildi notuð.
+*/
+
 require('dotenv').config();
 
 const express = require('express');
