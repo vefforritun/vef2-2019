@@ -13,6 +13,9 @@ yarn-error.log*
 
 .env
 
+# leyfa í dæmi
+!fyrirlestrar/05/daemi/heroku/.env
+
 # huge file
 huge.txt
 
