@@ -40,6 +40,8 @@ Sjá Uglu.
   - Öryggi
 * [Fyrirlestur 5, 7. febrúar](fyrirlestrar/05/)
   - Auðkenning, Heroku
+* [Fyrirlestur 6, 21. febrúar](fyrirlestrar/06/)
+  - Vefþjónustur
 
 ## Ítarefni
 
@@ -99,6 +101,12 @@ Sjá Uglu.
     + [X. Dev/prod parity](https://12factor.net/dev-prod-parity)
     + [XI. Logs](https://12factor.net/logs)
     + [XII. Admin processes](https://12factor.net/admin-processes)
+* Fyrirlestur 6
+  - [Doktorsritgerð Fielding](http://www.ics.uci.edu/~fielding/pubs/dissertation/top.htm)
+  - [How to GET a Cup of Coffee](http://www.infoq.com/articles/webber-rest-workflow)
+  - [REST isn’t what you think it is, and that’s OK](http://www.intridea.com/blog/2010/4/29/rest-isnt-what-you-think-it-is)
+  - [Martin Fowler: Microservices](https://martinfowler.com/articles/microservices.html)
+  - [The Death of Microservice Madness in 2018](http://www.dwmkerr.com/the-death-of-microservice-madness-in-2018/)
 
 ## Verkefni
 

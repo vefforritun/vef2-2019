@@ -10,3 +10,5 @@
   - Öryggi
 * [Fyrirlestur 5, 7. febrúar](05/)
   - Auðkenning, Heroku
+* [Fyrirlestur 6, 21. febrúar](06/)
+  - Vefþjónustur
