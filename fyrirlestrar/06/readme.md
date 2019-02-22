@@ -1,8 +1,8 @@
 # Fyrirlestur 6, 21. febrúar 2018
 
-[Fyrirlestur 6.1: Vefþjónustur](06.1.ws.md), [vídeó](https://youtu.be/)
+[Fyrirlestur 6.1: Vefþjónustur](06.1.ws.md), [vídeó](https://youtu.be/5WPsgjfC3lE)
 
-[Fyrirlestur 6.2: Vefþjónustur](06.2.ws.md), [vídeó](https://youtu.be/)
+[Fyrirlestur 6.2: Vefþjónustur](06.2.ws.md), [vídeó](https://youtu.be/kfCi_uXyUnA)
 
 * [get.js](daemi/ws/01.get.js)
 * [post.js](daemi/ws/02.post.js)
