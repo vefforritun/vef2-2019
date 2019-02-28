@@ -12,3 +12,5 @@
   - Auðkenning, Heroku
 * [Fyrirlestur 6, 21. febrúar](06/)
   - Vefþjónustur
+* [Fyrirlestur 7, 28. febrúar](07/)
+  - Vefþjónustur, redis & cache
