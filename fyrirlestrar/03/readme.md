@@ -1,4 +1,4 @@
-# Fyrirlestur 3, 24. janúar 2018
+# Fyrirlestur 3, 24. janúar 2019
 
 [Fyrirlestur 3.1: HTTP](03.1.http.md), [vídeó](https://youtu.be/RMfosbyVPy0)
 

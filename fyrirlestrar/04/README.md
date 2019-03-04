@@ -1,4 +1,4 @@
-# Fyrirlestur 4, 1. febrúar 2018
+# Fyrirlestur 4, 1. febrúar 2019
 
 [Fyrirlestur 4.1 – Öryggi](04.1.security.md), [vídeó](https://www.youtube.com/watch?v=jAHu-m1Gcr4)
 

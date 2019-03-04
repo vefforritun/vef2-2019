@@ -1,4 +1,4 @@
-# Fyrirlestur 1, 10. janúar 2018
+# Fyrirlestur 1, 10. janúar 2019
 
 [Fyrirlestur 1.1: Kynning](01.1.kynning.md), [vídeó](https://youtu.be/qXMuGBeAAH4)
 

@@ -1,4 +1,4 @@
-# Fyrirlestur 5, 8. febrúar 2018
+# Fyrirlestur 5, 8. febrúar 2019
 
 [Fyrirlestur 5.1: Auðkenning](05.1.auth.md), [vídeó part 1](https://youtu.be/Qku1QOVQe8k), [vídeó part 2](https://youtu.be/21bdKmownWg)
 

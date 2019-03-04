@@ -1,4 +1,4 @@
-# Fyrirlestur 2, 17. janúar 2018
+# Fyrirlestur 2, 17. janúar 2019
 
 [Fyrirlestur 2.1: Einingar](02.1.modules.md), [vídeó](https://www.youtube.com/watch?v=eJ2Hwgwuhcw)
 

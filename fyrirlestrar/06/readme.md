@@ -1,4 +1,4 @@
-# Fyrirlestur 6, 21. febrúar 2018
+# Fyrirlestur 6, 21. febrúar 2019
 
 [Fyrirlestur 6.1: Vefþjónustur](06.1.ws.md), [vídeó](https://youtu.be/5WPsgjfC3lE)
 
