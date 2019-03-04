@@ -1,17 +1,17 @@
 # Fyrirlestur 7, 28. febrúar 2019
 
-[Fyrirlestur 7.1: redis](07.1.redis.md), [vídeó](https://youtu.be/)
+[Fyrirlestur 7.1: redis](07.1.redis.md), [vídeó](https://youtu.be/y9sw7reXmjc)
 
 * [redis.js](daemi/redis/01.redis.js)
 * [redis-keys.js](daemi/redis/02.redis-keys.js)
 * [redis-cache.js](daemi/redis/03.redis-cache.js)
 * [session.js](daemi/redis/04.session.js)
 
-[Fyrirlestur 7.2: Vefþjónustur & auðkenning](07.2.tokens.md), [vídeó](https://youtu.be/)
+[Fyrirlestur 7.2: Vefþjónustur & auðkenning](07.2.tokens.md), [vídeó](https://youtu.be/fcv8hoDr6bo)
 
 * [jwt](daemi/jwt/)
 
-[Fyrirlestur 7.3: Vefþjónustur](07.3.ws.md), [vídeó](https://youtu.be/)
+[Fyrirlestur 7.3: Vefþjónustur](07.3.ws.md), [vídeó](https://youtu.be/bLZfedFVEGU)
 
 * [paging](daemi/ws/paging/)
 * [search](daemi/ws/search/)
