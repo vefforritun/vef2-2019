@@ -123,6 +123,7 @@ Verið að endurskipuleggja skil, klárast fyrir lok febrúar.
   - [Kynning í fyrirlestri](https://www.youtube.com/watch?v=XHvDatOMwE4)
   - [Sýnilausn](https://github.com/vefforritun/vef2-2019-v2-synilausn)
 * [Verkefni 3](https://github.com/vefforritun/vef2-2019-v3), sett fyrir 10. febrúar, skilist 23. febrúar
+  - [Sýnilausn](https://github.com/vefforritun/vef2-2019-v3-synilausn)
 * [Verkefni 4](https://github.com/vefforritun/vef2-2019-v4), sett fyrir 21. febrúar, skilist 8. mars
   - [Kynning í fyrirlestri](https://youtu.be/I0QgiWtfCiY)
 * [Verkefni 5](https://github.com/vefforritun/vef2-2019-v5), sett fyrir 9. mars, skilist 22. mars
@@ -131,6 +132,7 @@ Verið að endurskipuleggja skil, klárast fyrir lok febrúar.
 ## Hópverkefni
 
 * [Hópverkefni 1](https://github.com/vefforritun/vef2-2019-h1), sett fyrir 28. febrúar, skilist 22. mars
+  - [Kynning í fyrirlestri](https://www.youtube.com/watch?v=jKZWshPOA-4)
 * [Hópverkefni 2](https://github.com/vefforritun/vef2-2019-h2), sett fyrir 14. mars, skilist 12. apríl
 
 ## Einkunn
