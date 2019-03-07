@@ -20,10 +20,10 @@ Sjá Uglu.
 |      | 14. febrúar | **Fyrirlestur fellur niður**          |                |                |
 |   6  | 21. febrúar | Vefþjónustur                          | Verkefni #4    | Verkefni #3    |
 |   7  | 28. febrúar | Vefþjónustur, redis & cache           | Hópverkefni #1 |                |
-|   8  | 7. mars     | Prófanir, React                       | Verkefni #5    | Verkefni #4    |
+|   8  | 7. mars     | React                                 | Verkefni #5    | Verkefni #4    |
 |   9  | 14. mars    | React                                 |                |                |
-|  10  | 21. mars    | React, next.js                        | Hópverkefni #2 | Hópverkefni #1 |
-|  11  | 28. mars    | Bundling, CMS, DevOps                 | Verkefni #6    | Verkefni #5    |
+|  10  | 21. mars    | React, next.js                        | Verkefni #6, Hópverkefni #2 | Verkefni #5, Hópverkefni #1 |
+|  11  | 28. mars    | Bundling, CMS, DevOps, prófanir       |                |                |
 |  12  | 4. apríl    | Vue, Typescript                       |                | Verkefni #6    |
 |  13  | 11. apríl   | Upprifjun og um lokapróf              |                |                |
 |      | 18. apríl   | Páskafrí                              |                | Hópverkefni #2 |
@@ -44,6 +44,8 @@ Sjá Uglu.
   - Vefþjónustur
 * [Fyrirlestur 7, 28. febrúar](fyrirlestrar/07/)
   - Vefþjónustur, redis & cache
+* [Fyrirlestur 8, 7. mars](fyrirlestrar/08/)
+  - React
 
 ## Ítarefni
 
@@ -109,6 +111,18 @@ Sjá Uglu.
   - [REST isn’t what you think it is, and that’s OK](http://www.intridea.com/blog/2010/4/29/rest-isnt-what-you-think-it-is)
   - [Martin Fowler: Microservices](https://martinfowler.com/articles/microservices.html)
   - [The Death of Microservice Madness in 2018](http://www.dwmkerr.com/the-death-of-microservice-madness-in-2018/)
+* Fyrirlestur 7
+  - [No Way, JOSE! JavaScript Object Signing and Encryption is a Bad Standard That Everyone Should Avoid](https://paragonie.com/blog/2017/03/jwt-json-web-tokens-is-bad-standard-that-everyone-should-avoid)
+  - [Everything Is Fast For Small n](https://blog.codinghorror.com/everything-is-fast-for-small-n/)
+  - [Cross-Origin Resource Sharing (CORS)](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)
+* Fyrirlestur 8
+  - [React: Reconciliation](https://reactjs.org/docs/reconciliation.html)
+  - [`prop-types`](https://github.com/facebook/prop-types)
+  - [React docs](https://reactjs.org/docs/hello-world.html)
+  - [Pete Hunt: React: Rethinking best practices -- JSConf EU 2013](https://www.youtube.com/watch?v=x7cQ3mrcKaY)
+  - [WTF is JSX](https://jasonformat.com/wtf-is-jsx/)
+  - [React: Accessibility](https://reactjs.org/docs/accessibility.html)
+  - [React Router](https://reacttraining.com/react-router/web/guides/quick-start)
 
 ## Verkefni
 
@@ -126,7 +140,7 @@ Verið að endurskipuleggja skil, klárast fyrir lok febrúar.
   - [Sýnilausn](https://github.com/vefforritun/vef2-2019-v3-synilausn)
 * [Verkefni 4](https://github.com/vefforritun/vef2-2019-v4), sett fyrir 21. febrúar, skilist 8. mars
   - [Kynning í fyrirlestri](https://youtu.be/I0QgiWtfCiY)
-* [Verkefni 5](https://github.com/vefforritun/vef2-2019-v5), sett fyrir 9. mars, skilist 22. mars
+* [Verkefni 5](https://github.com/vefforritun/vef2-2019-v5), sett fyrir 7. mars, skilist 22. mars
 * [Verkefni 6](https://github.com/vefforritun/vef2-2019-v6), sett fyrir 23. mars, skilist 5. apríl
 
 ## Hópverkefni

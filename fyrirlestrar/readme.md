@@ -14,3 +14,5 @@
   - Vefþjónustur
 * [Fyrirlestur 7, 28. febrúar](07/)
   - Vefþjónustur, redis & cache
+* [Fyrirlestur 8, 7. mars](08/)
+  - React
