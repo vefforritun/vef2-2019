@@ -1,9 +1,12 @@
 # Fyrirlestur 8, 7. mars 2019
 
-[Fyrirlestur 8.1: react](08.1.react.md), [vídeó](https://youtu.be/)
-[Fyrirlestur 8.2: react](08.2.react.md), [vídeó](https://youtu.be/)
-[Fyrirlestur 8.3: react](08.3.react.md), [vídeó](https://youtu.be/)
-[Fyrirlestur 8.4: react](08.4.react.md), [vídeó](https://youtu.be/)
+[Fyrirlestur 8.1: react](08.1.react.md), [vídeó](https://youtu.be/MPCnUTN8jZ8)
+
+[Fyrirlestur 8.2: react](08.2.react.md), [vídeó](https://youtu.be/AoABbAA0Ko8)
+
+[Fyrirlestur 8.3: react](08.3.react.md), [vídeó](https://youtu.be/x7FJNbgq4-Y)
+
+[Fyrirlestur 8.4: react](08.4.react.md), [vídeó](https://youtu.be/upJ9i7bfUzc)
 
 ## Dæmi
 
