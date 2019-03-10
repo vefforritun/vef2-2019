@@ -142,13 +142,13 @@ Verið að endurskipuleggja skil, klárast fyrir lok febrúar.
   - [Kynning í fyrirlestri](https://youtu.be/I0QgiWtfCiY)
 * [Verkefni 5](https://github.com/vefforritun/vef2-2019-v5), sett fyrir 7. mars, skilist 22. mars
   - [Kynning í fyrirlestri](https://youtu.be/upJ9i7bfUzc?t=1506)
-* [Verkefni 6](https://github.com/vefforritun/vef2-2019-v6), sett fyrir 23. mars, skilist 5. apríl
+* [Verkefni 6](https://github.com/vefforritun/vef2-2019-v6), sett fyrir 21. mars, skilist 5. apríl
 
 ## Hópverkefni
 
 * [Hópverkefni 1](https://github.com/vefforritun/vef2-2019-h1), sett fyrir 28. febrúar, skilist 22. mars
   - [Kynning í fyrirlestri](https://www.youtube.com/watch?v=jKZWshPOA-4)
-* [Hópverkefni 2](https://github.com/vefforritun/vef2-2019-h2), sett fyrir 14. mars, skilist 12. apríl
+* [Hópverkefni 2](https://github.com/vefforritun/vef2-2019-h2), sett fyrir 21. mars, skilist 19. apríl
 
 ## Einkunn
 
