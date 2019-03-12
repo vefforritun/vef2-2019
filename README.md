@@ -146,7 +146,7 @@ Verið að endurskipuleggja skil, klárast fyrir lok febrúar.
 
 ## Hópverkefni
 
-* [Hópverkefni 1](https://github.com/vefforritun/vef2-2019-h1), sett fyrir 28. febrúar, skilist 22. mars
+* [Hópverkefni 1](https://github.com/vefforritun/vef2-2019-h1), sett fyrir 28. febrúar, skilist 27. mars
   - [Kynning í fyrirlestri](https://www.youtube.com/watch?v=jKZWshPOA-4)
 * [Hópverkefni 2](https://github.com/vefforritun/vef2-2019-h2), sett fyrir 21. mars, skilist 19. apríl
 
