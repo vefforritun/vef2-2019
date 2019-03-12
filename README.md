@@ -140,6 +140,7 @@ Verið að endurskipuleggja skil, klárast fyrir lok febrúar.
   - [Sýnilausn](https://github.com/vefforritun/vef2-2019-v3-synilausn)
 * [Verkefni 4](https://github.com/vefforritun/vef2-2019-v4), sett fyrir 21. febrúar, skilist 8. mars
   - [Kynning í fyrirlestri](https://youtu.be/I0QgiWtfCiY)
+  - [Sýnilausn](https://github.com/vefforritun/vef2-2019-v4-synilausn)
 * [Verkefni 5](https://github.com/vefforritun/vef2-2019-v5), sett fyrir 7. mars, skilist 22. mars
   - [Kynning í fyrirlestri](https://youtu.be/upJ9i7bfUzc?t=1506)
 * [Verkefni 6](https://github.com/vefforritun/vef2-2019-v6), sett fyrir 21. mars, skilist 5. apríl
