@@ -22,8 +22,8 @@ Sjá Uglu.
 |   7  | 28. febrúar | Vefþjónustur, redis & cache           | Hópverkefni #1 |                |
 |   8  | 7. mars     | React                                 | Verkefni #5    | Verkefni #4    |
 |   9  | 14. mars    | React                                 |                |                |
-|  10  | 21. mars    | React, next.js                        | Verkefni #6, Hópverkefni #2 | Verkefni #5, Hópverkefni #1 |
-|  11  | 28. mars    | Bundling, CMS, DevOps, prófanir       |                |                |
+|  10  | 21. mars    | React, next.js                        | Verkefni #6, Hópverkefni #2 | Verkefni #5 |
+|  11  | 28. mars    | Bundling, CMS, DevOps, prófanir       |                | Hópverkefni #1 |
 |  12  | 4. apríl    | Vue, Typescript                       |                | Verkefni #6    |
 |  13  | 11. apríl   | Upprifjun og um lokapróf              |                |                |
 |      | 18. apríl   | Páskafrí                              |                | Hópverkefni #2 |
@@ -45,6 +45,8 @@ Sjá Uglu.
 * [Fyrirlestur 7, 28. febrúar](fyrirlestrar/07/)
   - Vefþjónustur, redis & cache
 * [Fyrirlestur 8, 7. mars](fyrirlestrar/08/)
+  - React
+* [Fyrirlestur 9, 14. mars](fyrirlestrar/09/)
   - React
 
 ## Ítarefni
@@ -123,6 +125,7 @@ Sjá Uglu.
   - [WTF is JSX](https://jasonformat.com/wtf-is-jsx/)
   - [React: Accessibility](https://reactjs.org/docs/accessibility.html)
   - [React Router](https://reacttraining.com/react-router/web/guides/quick-start)
+* Fyrirlestur 9
 
 ## Verkefni
 
