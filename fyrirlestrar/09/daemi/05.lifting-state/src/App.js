@@ -40,7 +40,7 @@ BoilingVerdict.propTypes = {
   celsius: PropTypes.number,
 };
 
-// Gerum TemperatureInput að controlled comopnent
+// Gerum TemperatureInput að controlled component
 class TemperatureInput extends Component {
   static propTypes = {
     onTemperatureChange: PropTypes.func,

@@ -1,10 +1,10 @@
 # Fyrirlestur 9, 14. mars 2019
 
-[Fyrirlestur 9.1: react](09.1.react.md), [vídeó](https://youtu.be/)
+[Fyrirlestur 9.1: react](09.1.react.md), [vídeó](https://youtu.be/7o7qo3zOBFM)
 
-[Fyrirlestur 9.2: react](09.2.react.md), [vídeó](https://youtu.be/)
+[Fyrirlestur 9.2: react](09.2.react.md), [vídeó](https://youtu.be/lWdUgWVsx-o)
 
-[Fyrirlestur 9.3: react](09.3.react.md), [vídeó](https://youtu.be/)
+[Fyrirlestur 9.3: react](09.3.react.md), [vídeó](https://youtu.be/ZfhimtiHCek)
 
 ## Dæmi
 

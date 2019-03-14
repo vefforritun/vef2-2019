@@ -22,13 +22,14 @@ class Fetch extends Component {
 
   render() {
     const { data, loading, error } = this.state;
+    const { url } = this.props;
 
     if (loading) {
       return (<div>Sæki gögn...</div>);
     }
 
     if (error) {
-      return (<div>Villa við að sækja gögn</div>);
+      return (<div>Villa við að sækja gögn frá {url}</div>);
     }
 
     return (<div>Gögn: {JSON.stringify(data)}</div>);
@@ -40,6 +41,8 @@ class App extends Component {
     return (
       <div>
         <Fetch url="http://apis.is/currency/arion" />
+        <Fetch url="http://apis.is/currency/lb" />
+        <Fetch url="http://apis.is/currency/islandsbanki" />
       </div>
     );
   }
