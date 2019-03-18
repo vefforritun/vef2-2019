@@ -15,8 +15,8 @@
 * [conditional](daemi/03.conditional/)
 * [children](daemi/04.children/)
 * [props](daemi/05.props/)
-* [state](daemi/06.state/)
-* [events](daemi/07.events/)
+* [events](daemi/06.events/)
+* [state](daemi/07.state/)
 * [react-helmet](daemi/08.react-helmet/)
 * [react-router](daemi/09.react-router/)
 
