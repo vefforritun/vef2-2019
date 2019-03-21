@@ -1,0 +1,18 @@
+* text=auto
+
+*.md text
+*.css text
+*.scss text
+*.js text
+*.mjs text
+*.ejs text
+*.json text
+*.sql text
+*.svg text
+
+*.zip  binary
+*.gif  binary
+*.jpg  binary
+*.jpeg binary
+*.pdf  binary
+*.png  binary

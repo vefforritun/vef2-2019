@@ -48,6 +48,8 @@ Sjá Uglu.
   - React
 * [Fyrirlestur 9, 14. mars](fyrirlestrar/09/)
   - React
+* [Fyrirlestur 10, 21. mars](fyrirlestrar/10/)
+  - Flux & redux, Context & hooks, NextJS
 
 ## Ítarefni
 
@@ -126,6 +128,28 @@ Sjá Uglu.
   - [React: Accessibility](https://reactjs.org/docs/accessibility.html)
   - [React Router](https://reacttraining.com/react-router/web/guides/quick-start)
 * Fyrirlestur 9
+  - [React.Component](https://reactjs.org/docs/react-component.html)
+  - [React Lifecycle Methods diagram](http://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/)
+  - [You Probably Don't Need Derived State](https://reactjs.org/blog/2018/06/07/you-probably-dont-need-derived-state.html)
+  - [Higher-Order Components: Caveats](https://reactjs.org/docs/higher-order-components.html#caveats)
+  - [Container Components](https://medium.com/@learnreact/container-components-c0e67432e005)
+  - [Presentational and Container Components](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0)
+* Fyrirlestur 10
+  - [When Does a Project Need React?](https://css-tricks.com/project-need-react/)
+  - [Evolving Patterns in React](https://medium.freecodecamp.org/evolving-patterns-in-react-116140e5fe8f)
+  - [React Design Principles](https://reactjs.org/docs/design-principles.html#)
+  - [React Fiber Architecture](https://github.com/acdlite/react-fiber-architecture)
+  - [React - Basic Theoretical Concepts](https://github.com/reactjs/react-basic)
+  - [Build Your Own React — A Step By Step Guide](https://hackernoon.com/build-your-own-react-48edb8ed350d)
+  - [React as a UI Runtime](https://overreacted.io/react-as-a-ui-runtime/)
+  - [Flux examples](https://github.com/facebook/flux/tree/master/examples)
+  - [Redux](https://redux.js.org/)
+  - [Getting Started with Redux, video](https://egghead.io/series/getting-started-with-redux)
+  - [Redux Real World Example](https://github.com/reactjs/redux/tree/master/examples/real-world)
+  - [React Redux API](https://github.com/reactjs/react-redux/blob/master/docs/api.md#api)
+  - [MobX – Simple, scalable state management](https://mobx.js.org/)
+  - [Introduction Hooks](https://reactjs.org/docs/hooks-intro.html)
+  - [preact –  Fast 3kB React alternative with the same modern API. Components & Virtual DOM.](https://github.com/developit/preact)
 
 ## Verkefni
 

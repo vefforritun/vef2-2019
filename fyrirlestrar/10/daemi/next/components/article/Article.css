@@ -1,0 +1,19 @@
+.title {
+  font-size: 2rem;
+}
+
+.text {
+  font-size: 1.5rem;
+}
+
+.button {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.details {
+  font-size: 0.75rem;
+}
+
+.back {
+  display: block;
+}
