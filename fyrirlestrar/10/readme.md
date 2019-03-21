@@ -1,11 +1,11 @@
 
 # Fyrirlestur 10, 21. mars 2019
 
-[Fyrirlestur 10.1: Flux & redux](10.1.flux-redux.md), [vídeó](https://youtu.be/)
+[Fyrirlestur 10.1: Flux & redux](10.1.flux-redux.md), [vídeó](https://youtu.be/7rX3VCjjqOk)
 
-[Fyrirlestur 10.2: Context & hooks](10.2.context-hooks.md), [vídeó](https://youtu.be/)
+[Fyrirlestur 10.2: Context & hooks](10.2.context-hooks.md), [vídeó](https://youtu.be/-6e-TlhhME0)
 
-[Fyrirlestur 10.3: NextJs](10.3.nextjs.md), [vídeó](https://youtu.be/)
+[Fyrirlestur 10.3: NextJs](10.3.nextjs.md), [vídeó](https://youtu.be/HLVYef3ITIs)
 
 ## Dæmi
 
