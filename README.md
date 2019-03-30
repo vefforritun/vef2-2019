@@ -22,10 +22,10 @@ Sjá Uglu.
 |   7  | 28. febrúar | Vefþjónustur, redis & cache           | Hópverkefni #1 |                |
 |   8  | 7. mars     | React                                 | Verkefni #5    | Verkefni #4    |
 |   9  | 14. mars    | React                                 |                |                |
-|  10  | 21. mars    | React, next.js                        | Verkefni #6, Hópverkefni #2 | Verkefni #5 |
-|  11  | 28. mars    | Bundling, CMS, DevOps, prófanir       |                | Hópverkefni #1 |
-|  12  | 4. apríl    | Vue, Typescript                       |                | Verkefni #6    |
-|  13  | 11. apríl   | Upprifjun og um lokapróf              |                |                |
+|  10  | 21. mars    | React, next.js                        | Verkefni #6    | Verkefni #5    |
+|      | 28. mars    | **Fyrirlestur fellur niður**          | Hópverkefni #2 | Hópverkefni #1 |
+|  11  | 4. apríl    | Bundling, Typescript                  |                | Verkefni #6    |
+|  12  | 11. apríl   | Upprifjun og um lokapróf              |                |                |
 |      | 18. apríl   | Páskafrí                              |                | Hópverkefni #2 |
 
 ## Fyrirlestrar
@@ -170,6 +170,7 @@ Verið að endurskipuleggja skil, klárast fyrir lok febrúar.
   - [Sýnilausn](https://github.com/vefforritun/vef2-2019-v4-synilausn)
 * [Verkefni 5](https://github.com/vefforritun/vef2-2019-v5), sett fyrir 7. mars, skilist 22. mars
   - [Kynning í fyrirlestri](https://youtu.be/upJ9i7bfUzc?t=1506)
+  - [Sýnilausn](https://github.com/vefforritun/vef2-2019-v5-synilausn)
 * [Verkefni 6](https://github.com/vefforritun/vef2-2019-v6), sett fyrir 21. mars, skilist 5. apríl
   - [Kynning í fyrirlestri](https://youtu.be/B3Kq7GTAYpg)
 
@@ -177,7 +178,8 @@ Verið að endurskipuleggja skil, klárast fyrir lok febrúar.
 
 * [Hópverkefni 1](https://github.com/vefforritun/vef2-2019-h1), sett fyrir 28. febrúar, skilist 27. mars
   - [Kynning í fyrirlestri](https://www.youtube.com/watch?v=jKZWshPOA-4)
-* [Hópverkefni 2](https://github.com/vefforritun/vef2-2019-h2), sett fyrir 21. mars, skilist 19. apríl
+  - [Sýnilausn](https://github.com/vefforritun/vef2-2019-h1-synilausn)
+* [Hópverkefni 2](https://github.com/vefforritun/vef2-2019-h2), sett fyrir 30. mars, skilist 19. apríl
 
 ## Einkunn
 
