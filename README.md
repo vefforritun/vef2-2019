@@ -50,6 +50,8 @@ Sjá Uglu.
   - React
 * [Fyrirlestur 10, 21. mars](fyrirlestrar/10/)
   - Flux & redux, Context & hooks, NextJS
+* [Fyrirlestur 11, 4. apríl](fyrirlestrar/11/)
+  - Webpack, TypeScript og næstu skref
 
 ## Ítarefni
 
@@ -150,6 +152,23 @@ Sjá Uglu.
   - [MobX – Simple, scalable state management](https://mobx.js.org/)
   - [Introduction Hooks](https://reactjs.org/docs/hooks-intro.html)
   - [preact –  Fast 3kB React alternative with the same modern API. Components & Virtual DOM.](https://github.com/developit/preact)
+* Fyrirlestur 11
+  - [Webpack documentation](https://webpack.js.org/concepts)
+  - [TypeScript handbook: Basic Types](http://www.typescriptlang.org/docs/handbook/basic-types.html)
+  - [TypeScript handbook: Functions](http://www.typescriptlang.org/docs/handbook/functions.html)
+  - [Create React App: Adding TypeScript](https://facebook.github.io/create-react-app/docs/adding-typescript)
+  - [A List Apart](https://alistapart.com/)
+  - [Smashing Magazine](https://www.smashingmagazine.com/)
+  - [CSS Tricks](https://css-tricks.com/)
+  - [freeCodeCamp](https://medium.freecodecamp.org/)
+  - [Syntax](https://syntax.fm/)
+  - [GraphQL](https://graphql.org/)
+  - [Gatsby](https://www.gatsbyjs.org/)
+  - [React Native](https://facebook.github.io/react-native/)
+  - [Vue](https://vuejs.org/)
+  - [Reason](https://reasonml.github.io/),
+  - [MDN: Progressive web apps](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps)
+  - [Progressive Web Apps](https://developers.google.com/web/progressive-web-apps/)
 
 ## Verkefni
 

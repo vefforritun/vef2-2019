@@ -16,3 +16,9 @@
   - Vefþjónustur, redis & cache
 * [Fyrirlestur 8, 7. mars](08/)
   - React
+* [Fyrirlestur 9, 14. mars](09/)
+  - React
+* [Fyrirlestur 10, 21. mars](10/)
+  - Flux & redux, Context & hooks, NextJS
+* [Fyrirlestur 11, 4. apríl](11/)
+  - Webpack, TypeScript og næstu skref
