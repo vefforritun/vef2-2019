@@ -1,11 +1,11 @@
 
 # Fyrirlestur 11, 21. mars 2019
 
-[Fyrirlestur 11.1: Webpack](11.1.webpack.md), [vídeó](https://youtu.be/)
+[Fyrirlestur 11.1: Webpack](11.1.webpack.md), [vídeó](https://youtu.be/-QflGExg62g)
 
-[Fyrirlestur 11.2: TypeScript](11.2.typescript.md), [vídeó](https://youtu.be/)
+[Fyrirlestur 11.2: TypeScript](11.2.typescript.md), [vídeó](https://youtu.be/sXZN5Uc7UkE)
 
-[Fyrirlestur 11.3: Næstu skref](11.3.next-steps.md), [vídeó](https://youtu.be/)
+[Fyrirlestur 11.3: Næstu skref](11.3.next-steps.md), [vídeó](https://youtu.be/UKmm5nxUr0s)
 
 ## Dæmi
 
