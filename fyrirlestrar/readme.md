@@ -22,3 +22,5 @@
   - Flux & redux, Context & hooks, NextJS
 * [Fyrirlestur 11, 4. apríl](11/)
   - Webpack, TypeScript og næstu skref
+* [Fyrirlestur 12, 11. apríl](12/)
+  - Upprifjun og lokapróf

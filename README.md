@@ -52,6 +52,8 @@ Sjá Uglu.
   - Flux & redux, Context & hooks, NextJS
 * [Fyrirlestur 11, 4. apríl](fyrirlestrar/11/)
   - Webpack, TypeScript og næstu skref
+* [Fyrirlestur 12, 11. apríl](fyrirlestrar/12/)
+  - Upprifjun og lokapróf
 
 ## Ítarefni
 
@@ -192,6 +194,7 @@ Verið að endurskipuleggja skil, klárast fyrir lok febrúar.
   - [Sýnilausn](https://github.com/vefforritun/vef2-2019-v5-synilausn)
 * [Verkefni 6](https://github.com/vefforritun/vef2-2019-v6), sett fyrir 21. mars, skilist 5. apríl
   - [Kynning í fyrirlestri](https://youtu.be/B3Kq7GTAYpg)
+  - [Sýnilausn](https://github.com/vefforritun/vef2-2019-v6-synilausn)
 
 ## Hópverkefni
 

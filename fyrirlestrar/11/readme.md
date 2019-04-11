@@ -1,5 +1,5 @@
 
-# Fyrirlestur 11, 21. mars 2019
+# Fyrirlestur 11, 4. apríl 2019
 
 [Fyrirlestur 11.1: Webpack](11.1.webpack.md), [vídeó](https://youtu.be/-QflGExg62g)
 
