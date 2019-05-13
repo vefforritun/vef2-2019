@@ -202,6 +202,7 @@ Verið að endurskipuleggja skil, klárast fyrir lok febrúar.
   - [Kynning í fyrirlestri](https://www.youtube.com/watch?v=jKZWshPOA-4)
   - [Sýnilausn](https://github.com/vefforritun/vef2-2019-h1-synilausn)
 * [Hópverkefni 2](https://github.com/vefforritun/vef2-2019-h2), sett fyrir 30. mars, skilist 19. apríl
+  - [Sýnilausn](https://github.com/vefforritun/vef2-2019-h2-synilausn)
 
 ## Einkunn
 
